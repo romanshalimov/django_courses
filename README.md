@@ -1,3 +1,5 @@
+![](https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/248189/c316d9c631931b92ae132de94d48c4bc.png)
+
 <details>
   <summary>Домашние задания по курсу Django</summary>
   <ol>
